@@ -1,0 +1,13 @@
+{
+    "name": "deeprahman/backupdb",
+    "description": "Reads database table in binary mode and in chunks of specified bytes and create backup.",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Deep",
+            "email": "dp.rahman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
