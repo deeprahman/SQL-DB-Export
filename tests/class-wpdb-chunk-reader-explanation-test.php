@@ -3,7 +3,7 @@ use PHPUnit\Framework\TestCase;
 
 require_once 'WpPostContentBackup.php';
 
-class WpPostContentBackupTest extends TestCase {
+class Wpdb_Chunk_Reader_Explaination extends TestCase {
 
     private $backupFile;
 

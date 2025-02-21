@@ -8,7 +8,7 @@
  *
  * The backup is written to a file in binary mode.
  */
-class WpPostContentBackup {
+class Wpdb_Chunk_Reader_Explaination {
 
     const CHUNK_SIZE = 128; // number of bytes per chunk
 
